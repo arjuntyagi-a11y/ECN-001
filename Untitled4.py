@@ -3,7 +3,7 @@
 # Next step (optional): refactor into modules & generate tests with RunCell
 # Quick start: pip install runcell
 
-! pip install pandas openpyxl matplotlib
+!pip install pandas openpyxl matplotlib
 
 
 import pandas as pd
